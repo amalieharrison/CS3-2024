@@ -16,6 +16,12 @@ DS 4002 Final Project
 - COVID-19_Case_Surveillance_Public_Use_Data_with_Geography_20241017.csv: Initial dataset containing COVID-19 total case count data over time.
 - Influenza_Vaccination_Coverage_for_All_Ages__6__Months__20241016 (3).csv: Initial dataset containing influenza vaccination coverage % across the state of Virginia over time.
 - Vaccination_and_cases.csv: Cleaned dataset containing both COVID-19 case count data and Influenza vaccinaiton coverage data over time.
+### 2) CS Resources
+- CS Hook Document: Includes relevant background information regarding the case study topic and objectives.
+- CS Rubric: Includes assignment details required to meet specifications.
+### 3) Articles 
+- Inflluenza Vaccination Article: Includes relevant information relating to how vaccination rates have been affected by the COVID-19 pandemic in Canada specifically.
+- COVID-19 Changes to Daily Life: Includes a post highlighting the changes that the population has made as a result of the COVID-19 pandemic.
 
 ## Reproducing Results
 #### 1) Download both COVID-19_Case_Surveillance_Public_Use_Data_with_Geography_20241017.csv and Influenza_Vaccination_Coverage_for_All_Ages__6__Months__20241016 (3).csv.
